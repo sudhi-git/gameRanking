@@ -1,0 +1,6 @@
+2020-12-15 19:12:40,365 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-15 19:28:45,722 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus:8081/nexus/content/groups/build.snapshots/org/springframework/boot/spring-boot-starter-parent/2.4.1/spring-boot-starter-parent-2.4.1.pom
+2020-12-15 19:28:45,739 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus:8081/nexus/content/groups/build.milestones/org/springframework/boot/spring-boot-starter-parent/2.4.1/spring-boot-starter-parent-2.4.1.pom
+2020-12-15 19:28:46,611 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 118 sec
+2020-12-15 19:28:46,626 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-15 19:28:46,708 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
